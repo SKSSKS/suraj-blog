@@ -1,2 +1,2 @@
 from flaskr import create_app
-app = create_app().run()
+create_app().run()
